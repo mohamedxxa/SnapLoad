@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0F0F1A</color>
+    <color name="bg_dark_surface">#1A1A2E</color>
+    <color name="bg_dark_card">#20203A</color>
+    <color name="primary_orange">#FF6B35</color>
+    <color name="primary_orange_dark">#E85A2A</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0B8</color>
+    <color name="text_hint">#6B6B85</color>
+    <color name="divider_color">#2A2A45</color>
+    <color name="success_green">#4CD964</color>
+    <color name="error_red">#FF3B30</color>
+    <color name="transparent">#00000000</color>
+</resources>
